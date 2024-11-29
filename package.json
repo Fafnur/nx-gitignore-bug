@@ -2,7 +2,6 @@
   "name": "@nx-gitignore-bug/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
   "private": true,
   "dependencies": {
     "@nestjs/common": "^10.0.2",
@@ -42,5 +41,6 @@
     "typescript": "~5.5.2",
     "typescript-eslint": "^8.0.0",
     "webpack-cli": "^5.1.4"
-  }
+  },
+  "packageManager": "yarn@4.5.3"
 }
